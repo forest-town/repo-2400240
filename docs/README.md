@@ -67,3 +67,4 @@ If you would like to contribute to Dog Bone Tracker, please follow these guideli
 ## License
 
 Dog Bone Tracker is licensed under the MIT License.
+add 1 line
